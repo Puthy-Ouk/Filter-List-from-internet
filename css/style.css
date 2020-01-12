@@ -1,0 +1,21 @@
+.container{
+  width: 900px;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+
+input{
+    width: 96%;
+    padding: 15px;
+    border: 1px solid rebeccapurple;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+}
+li{
+    display: block;
+    border: 1px solid rebeccapurple;
+    padding: 15px;
+}
